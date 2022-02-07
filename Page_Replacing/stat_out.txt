@@ -1,0 +1,6 @@
+user id 2001 
+st_dev 145 
+inode number 136 
+st_nlink 1 
+st_size 506 
+permission 100644 

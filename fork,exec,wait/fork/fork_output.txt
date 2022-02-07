@@ -1,0 +1,4 @@
+hello world (pid:10595)
+hello, I am parent of 10596 (pid:10595)
+hello world (pid:10595)
+hello, I am child (pid:10596)

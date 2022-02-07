@@ -1,0 +1,4 @@
+hello world (pid:11094)
+hello, I am child (pid:11095)
+ 1  4 19 p3.c
+hello, I am parent of 11095 (wc:11095) (pid:11094)
